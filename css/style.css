@@ -1,0 +1,47 @@
+*
+	{
+	margin:50px;
+	font-family: 'Roboto Slab', serif;
+	}
+	
+a:link
+	{
+	color:yellow;
+	text-decoration:none;
+	background-color:black;
+	border:3px solid red;
+	padding:10px;
+	text-align:center;
+	}
+	
+a:visited
+	{
+	color:gold;
+	text-decoration:none;
+	background-color:gray;
+	border:3px solid black;
+	padding:20px;
+	text-align:center;
+	}
+	
+a:hover
+	{
+	color:green;
+	text-decoration:underline;
+	background-color:aqua;
+	border:3px solid #32FA0A;
+	padding:30px;
+	text-align:center;
+	}
+	
+a:active	
+	{
+	color:pink;
+	text-decoration:underline;
+	background-color:white;
+	border:3px solid #FAC20A;
+	padding:40px;
+	text-align:center;
+	}
+	
+	
